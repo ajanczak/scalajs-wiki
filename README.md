@@ -1,2 +1,2 @@
-libraries:
-1. http://lihaoyi.github.io/scalatags/
+## Libraries:
+ - http://lihaoyi.github.io/scalatags/
